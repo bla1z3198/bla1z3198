@@ -2,7 +2,8 @@
 
 <img src="https://github.com/get-icon/geticon/blob/master/icons/go.svg" height="32"/>  
 
-![bla1z3198's Stats](https://github-readme-stats.vercel.app/api?username=bla1z3198&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
+
+![bla1z3198's Stats](https://github-readme-stats.vercel.app/api?username=bla1z3198&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 
 
 
