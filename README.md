@@ -10,9 +10,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=bla1z3198&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bla1z3198&theme=radical&hide_border=true" alt="Streak"/>
 </p>
-
-<h3 align="center">Activity Graph</h3>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bla1z3198&theme=radical" alt="Activity Graph"/>
-</p>
-
