@@ -3,7 +3,7 @@
 <img src="https://github.com/get-icon/geticon/blob/master/icons/go.svg" height="32"/>  
 
 
-![bla1z3198's Stats](https://github-readme-stats.vercel.app/api?username=bla1z3198&theme=radical&show_icons=true&hide_border=true&count_private=true)
+![bla1z3198's Stats](https://github-readme-stats.vercel.app/api?username=bla1z3198&theme=radical&show_icons=true&hide_border=true&count_private=true) ![bla1z3198's Streak](https://github-readme-streak-stats.herokuapp.com/?user=bla1z3198&theme=radical&hide_border=true)
 
 
 
