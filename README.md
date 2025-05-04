@@ -4,9 +4,6 @@
 
 <table>
   <tr>
-    <td width="40%">
-      <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100%"/>
-    </td>
     <td width="60%">
       <h3>Tech Stack</h3>
       <p>
@@ -16,6 +13,9 @@
         <img src="https://github-readme-stats.vercel.app/api?username=bla1z3198&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="Stats"/>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=bla1z3198&theme=radical&hide_border=true" alt="Streak"/>
       </p>
+    </td>
+    <td width="40%">
+      <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100%"/>
     </td>
   </tr>
 </table>
